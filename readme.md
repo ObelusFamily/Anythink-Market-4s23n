@@ -18,3 +18,5 @@ This will install the backend and frontend and connect to the database.
 
 3. Check that the frontend is working: http://localhost:3001
 4. Make a new user by clicking "Sign Up".
+
+Now I just need to commit these changes and create a Pull Request.
